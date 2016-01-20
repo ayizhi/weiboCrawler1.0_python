@@ -1,0 +1,6 @@
+# weiboCreeper_python
+这是一个微博网页版的python爬虫
+
+首先得有一定python阅读能力
+从weiboLogin进入，在下面输入自己的密码，就能做到weibo登录，weibo网页版登录很麻烦，里面也提供了解法，其他都是用于查询代理，用代理可
+避免爬取太频繁被微博识破
